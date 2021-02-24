@@ -13,7 +13,7 @@ function App() {
     let updatedValue = currentCounterValue + 1;
     setCounter(updatedValue);
   };
-// ON TEXT CHANGE****************************************
+// ON TEXT CHANGE***************************************
   // const onTextChange = (event) => {
   //   console.log(event.currentTarget.value);
   //   setTxt(event.currentTarget.value.toUpperCase())
